@@ -1,8 +1,13 @@
+*{
+  
+  color: white;
+}
 html {
   box-sizing: border-box;
 }
 
 body {
+  background-color: #121212;
   margin: 0;
   font-family: "Work Sans", sans-serif;
 }
